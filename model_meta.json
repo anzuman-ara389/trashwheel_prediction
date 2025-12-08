@@ -1,0 +1,10 @@
+{
+  "features": [
+    "month",
+    "year",
+    "weight_tons_lag1",
+    "weight_tons_lag2",
+    "rolling_mean_3"
+  ],
+  "model": "Random Forest"
+}
