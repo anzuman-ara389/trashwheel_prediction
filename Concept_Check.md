@@ -4,7 +4,7 @@ Since this is a time-based dataset, I kept the rows in chronological order and u
 most recent 20% of the timeline as the test set. This mirrors a real prediction scenario, 
 where the goal is to forecast future months instead of randomly shuffled data.
 
-The lag features I created (such as the previous month’s trash weight) only use 
+The lag features I created (such as the previous months trash weight) only use 
 information that would have actually been available at prediction time, so they do not 
 leak any future values into the model.
 
