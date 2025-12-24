@@ -1,3 +1,7 @@
+Submitted by: Anzuman Ara
+Student ID: 20241266
+Module: Introduction to Data Handling, Exploration & Applied Machine Learning
+Programme: MSc Business Data Science
 # Trash Wheel — Monthly Trash Weight Prediction
 Business Goal
 The purpose of this project is to predict the amount of trash collected each month by the Mr. Trash Wheel system. The dataset comes from the TidyTuesday project (Week 10, 2024). Being able to forecast these values can help organizations plan resources and understand seasonal trends.
